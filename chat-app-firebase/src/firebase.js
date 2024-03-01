@@ -3,13 +3,13 @@ import 'firebase/compat/firestore';
 import 'firebase/compat/auth';
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyDsw08tB_8-ibbS5bouOq6i2pP0ZnvHIB8",
-  authDomain: "chat-app-54e33.firebaseapp.com",
-  projectId: "chat-app-54e33",
-  storageBucket: "chat-app-54e33.appspot.com",
-  messagingSenderId: "215440634206",
-  appId: "1:215440634206:web:c48ca068b7ea1548b5dfcf",
-  measurementId: "G-DX6MJB8NTS"
+  apiKey: "AIzaSyCTZMDoMWDnryGpncMl47QKcAlefKVd13A",
+  authDomain: "chat-app-new-ecede.firebaseapp.com",
+  projectId: "chat-app-new-ecede",
+  storageBucket: "chat-app-new-ecede.appspot.com",
+  messagingSenderId: "1012502477543",
+  appId: "1:1012502477543:web:16247d88e99700940ac042",
+  measurementId: "G-GVL6SJ2S6Z"
 });
 
 const db = firebaseApp.firestore()
